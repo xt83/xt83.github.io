@@ -3,17 +3,11 @@ title: "Presentations"
 type: "page"
 ---
 
-## Invited Talks
-
 **A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition**
 International Chinese Statistics Association (ICSA), Storrs, CT, 2025.
 
 **Pathway analysis over brain structural network with a survival outcome**
 ENAR Webinar, 2024.
-
-* * *
-
-## Contributed Presentations
 
 **Bayesian semiparametric inference for clustered recurrent events with zero-inflation and a terminal event**
 Joint Statistical Meetings (JSM), Toronto, Canada, 2023.
