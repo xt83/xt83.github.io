@@ -261,6 +261,13 @@ a:hover {
   color: #1b2a4a;
 }
 
+/* ===== Publication award highlight ===== */
+.pub-award {
+  color: #b5651d;
+  font-style: italic;
+  font-weight: 600;
+}
+
 /* ===== Publication / Talk year-grouped style ===== */
 .page-content h4 {
   font-family: 'Roboto Slab', serif;
