@@ -24,7 +24,7 @@ type: "page"
 </div>
 
 <div class="honor-item">
-  <span class="honor-name"><strong>Third Distinction</strong>, Citadel Data Open</span>
+  <span class="honor-name"><strong>Honorable Distinction</strong>, Citadel Data Open</span>
   <span class="honor-year">2020</span>
 </div>
 
