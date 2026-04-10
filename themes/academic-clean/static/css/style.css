@@ -307,6 +307,47 @@ a:hover {
   white-space: nowrap;
 }
 
+/* ===== Research Projects ===== */
+.research-project {
+  display: grid;
+  grid-template-columns: 1fr 380px;
+  gap: 32px;
+  align-items: start;
+  margin: 8px 0;
+}
+
+.research-text h3 {
+  font-family: 'Roboto Slab', serif;
+  font-size: 1.15rem;
+  color: #1b2a4a;
+  margin-bottom: 12px;
+}
+
+.research-text p {
+  font-size: 0.95rem;
+  line-height: 1.65;
+  text-align: justify;
+  margin-bottom: 10px;
+}
+
+.research-ref {
+  font-size: 0.88rem !important;
+  color: #555;
+}
+
+.research-img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.research-img img {
+  max-width: 100%;
+  height: auto;
+  border: 1px solid #e8e8e8;
+  border-radius: 4px;
+}
+
 /* ===== Footer ===== */
 .site-footer {
   background: #f5f5f5;
@@ -364,5 +405,14 @@ a:hover {
 
   .page-title {
     font-size: 1.6rem;
+  }
+
+  .research-project {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+
+  .research-img {
+    order: -1;
   }
 }
