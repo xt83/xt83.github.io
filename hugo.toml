@@ -3,6 +3,9 @@ languageCode = "en-us"
 title = "Xinyuan Tian"
 theme = "academic-clean"
 
+[markup.goldmark.renderer]
+  unsafe = true
+
 [params]
   description = "Xinyuan Tian - PhD Candidate in Biostatistics at Yale University"
   author = "Xinyuan Tian"
