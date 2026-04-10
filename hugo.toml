@@ -1,0 +1,30 @@
+baseURL = "https://xt83.github.io/"
+languageCode = "en-us"
+title = "Xinyuan Tian"
+theme = "academic-clean"
+
+[params]
+  description = "Xinyuan Tian - PhD Candidate in Biostatistics at Yale University"
+  author = "Xinyuan Tian"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Publications"
+    url = "/publications/"
+    weight = 3
+  [[menu.main]]
+    name = "Honors"
+    url = "/honors/"
+    weight = 4
+  [[menu.main]]
+    name = "Talks"
+    url = "/talks/"
+    weight = 5

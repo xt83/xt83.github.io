@@ -1,0 +1,23 @@
+{{ define "main" }}
+<div class="home-wrapper">
+  <div class="container">
+    <div class="home-grid">
+      <div class="home-photo">
+        <img src="{{ "img/headshot.jpg" | relURL }}" alt="Xinyuan Tian" class="headshot">
+        <div class="contact-card">
+          <h3>Xinyuan Tian</h3>
+          <p>Ph.D. Candidate in Biostatistics</p>
+          <p>Yale School of Public Health</p>
+          <p class="contact-email">
+            <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>
+            <a href="mailto:x.tian@yale.edu">x.tian@yale.edu</a>
+          </p>
+        </div>
+      </div>
+      <div class="home-content">
+        {{ .Content }}
+      </div>
+    </div>
+  </div>
+</div>
+{{ end }}

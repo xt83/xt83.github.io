@@ -1,0 +1,11 @@
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; {{ now.Year }} {{ .Site.Title }}. Built with <a href="https://gohugo.io" target="_blank">Hugo</a>.</p>
+  </div>
+</footer>
+<script>
+  document.querySelector('.nav-toggle').addEventListener('click', function() {
+    document.querySelector('.nav-menu').classList.toggle('active');
+    this.classList.toggle('active');
+  });
+</script>
