@@ -50,7 +50,7 @@ type: "page"
 **Pathway analysis over brain structural network with a survival outcome**
 <br>**Tian X.**, Li F., Shen L., Esserman D., & Zhao Y.
 <br>*Biometrics*, 80(4), ujae132. [DOI](https://doi.org/10.1093/biomtc/ujae132)
-<br>*Distinguished Student Paper Award, ENAR, 2023. John Van Ryzin Award, ENAR, 2023.*
+<br>*Distinguished Student Paper Award & John Van Ryzin Award, ENAR, 2023.*
 
 **Sex-specific topological structure associated with dementia via latent space estimation**
 <br>Wang S., Wang Y., Xu F., **Tian X.**, Fredericks C., Shen L., & Zhao Y.
