@@ -41,7 +41,7 @@ type: "page"
 **Pathway analysis over brain structural network with a survival outcome**
 <br>**Tian X.**, Li F., Shen L., Esserman D., & Zhao Y.
 <br>*Biometrics*, 80(4), ujae132. [DOI](https://doi.org/10.1093/biomtc/ujae132)
-<br>*Distinguished Student Paper Award & John Van Ryzin Award, ENAR, 2023.*
+<br>*John Van Ryzin Award & Distinguished Student Paper Award, ENAR, 2023.*
 
 **Bayesian semiparametric inference for clustered recurrent events with zero-inflation and a terminal event**
 <br>**Tian X.**, Ciarleglio M., Cai J., Greene E. J., Esserman D., Li F., & Zhao Y.
