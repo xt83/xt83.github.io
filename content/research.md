@@ -10,7 +10,7 @@ Xinyuan's research focuses on developing principled statistical and machine lear
 <div class="research-project">
 <div class="research-text">
 <h3>Bayesian Deep Learning for Dynamic Brain Connectivity</h3>
-<p>This work proposes a Bayesian deep learning framework that decomposes functional connectivity into dynamic and stationary components, disentangling transient fluctuations from stable network structures. By leveraging deep kernel learning and thresholded Gaussian processes, the model flexibly captures temporal dynamics while maintaining interpretability through sparsity-inducing layers. Applied to data from the Adolescent Brain Cognitive Development (ABCD) study, the framework uncovers dynamic brain signals during cognitive tasks that significantly contribute to variations in cognitive performance.</p>
+<p>This work proposes a Bayesian deep learning framework that decomposes functional connectivity into dynamic and stationary components, disentangling transient fluctuations from stable network structures. Leveraging deep kernel learning and thresholded Gaussian processes, the model captures temporal dynamics while maintaining interpretability through sparsity-inducing layers. Applied to the ABCD study, the framework uncovers dynamic brain signals during cognitive tasks that significantly contribute to cognitive performance.</p>
 <p class="research-ref"><strong>Tian X.</strong>, Guo Y., Ding S., Zhang Y., Esserman D., & Zhao Y. In revision, <em>Biometrics</em>, 2025.</p>
 </div>
 <div class="research-img">
@@ -36,7 +36,7 @@ Xinyuan's research focuses on developing principled statistical and machine lear
 <div class="research-project">
 <div class="research-text">
 <h3>Bayesian Longitudinal Network Regression for Connectome Genetics</h3>
-<p>This project develops Bayesian frameworks for modeling the relationship between genetic factors and brain connectivity networks measured longitudinally. The proposed mixed-effect model enables principled inference on how genetic variants shape the brain's structural and functional organization over time, identifying SNP-associated sub-network structures through network-level regression with biologically meaningful decompositions.</p>
+<p>This project develops Bayesian frameworks for modeling the relationship between genetic factors and brain connectivity networks measured longitudinally. The proposed mixed-effect model enables principled inference on how genetic variants shape the brain's functional organization over time, identifying SNP-associated sub-network structures through network-level regression with biologically meaningful decompositions applied to large-scale imaging genetics data.</p>
 <p class="research-ref">Li C.*, <strong>Tian X.</strong>*, Gao S., Wang S., Wang G., Zhao Y., & Zhao Y. <em>Statistics in Medicine</em>, 44(8–9), e70069, 2025.</p>
 </div>
 <div class="research-img">
@@ -49,7 +49,7 @@ Xinyuan's research focuses on developing principled statistical and machine lear
 <div class="research-project">
 <div class="research-text">
 <h3>Bayesian Semiparametric Methods for Complex Biomedical Data</h3>
-<p>Beyond neuroimaging, this line of research develops Bayesian semiparametric methods for complex data structures arising in clinical studies. For clustered recurrent events with zero-inflation and terminal events — a common setting in multi-center pragmatic clinical trials — a flexible joint modeling framework is proposed that simultaneously captures the recurrent event process, the zero-inflation mechanism, and the terminal event through multi-level frailties and Dirichlet process priors, enabling improved inference on treatment effects and patient heterogeneity.</p>
+<p>Beyond neuroimaging, this line of research develops Bayesian semiparametric methods for complex data structures arising in clinical studies. For clustered recurrent events with zero-inflation and terminal events, a flexible joint modeling framework is proposed that simultaneously captures the recurrent event process, zero-inflation, and the terminal event through multi-level frailties and Dirichlet process priors, enabling improved inference on treatment effects and patient heterogeneity.</p>
 <p class="research-ref"><strong>Tian X.</strong>, Ciarleglio M., Cai J., Greene E. J., Esserman D., Li F., & Zhao Y. <em>JRSS-C</em>, 73(3), 598–620, 2024.</p>
 </div>
 <div class="research-img">
