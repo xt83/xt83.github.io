@@ -12,6 +12,7 @@ type: "page"
 **A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition**
 <br>**Tian X.**, Guo Y., Ding S., Zhang Y., Esserman D., & Zhao Y.
 <br>In revision, *Biometrics*.
+<br>*JSM Student Paper Award, Statistics in Imaging Section, ASA, 2026.*
 
 **Intervention on modifiable lifestyle and physiological factors via variational autoencoder reveals changes in functional connectivity–mediated risk for Alzheimer's disease**
 <br>Orlichenko A., Ding S., Johns E., Gu Z., **Tian X.**, Li X., & Zhao Y.
@@ -40,6 +41,7 @@ type: "page"
 **Bayesian semiparametric inference for clustered recurrent events with zero-inflation and a terminal event**
 <br>**Tian X.**, Ciarleglio M., Cai J., Greene E. J., Esserman D., Li F., & Zhao Y.
 <br>*Journal of the Royal Statistical Society: Series C*, 73(3), 598–620. [DOI](https://doi.org/10.1093/jrsssc/qlae007)
+<br>*JSM Student Paper Award, Section on Bayesian Statistical Science, ASA, 2023.*
 
 **Bayesian mixed effect model inference for genetic association with brain network phenotype**
 <br>**Tian X.**\*, Wang Y.\*, Wang S., Zhao Y., & Zhao Y.
@@ -48,6 +50,7 @@ type: "page"
 **Pathway analysis over brain structural network with a survival outcome**
 <br>**Tian X.**, Li F., Shen L., Esserman D., & Zhao Y.
 <br>*Biometrics*, 80(4), ujae132. [DOI](https://doi.org/10.1093/biomtc/ujae132)
+<br>*Distinguished Student Paper Award, ENAR, 2023. John Van Ryzin Award, ENAR, 2023.*
 
 **Sex-specific topological structure associated with dementia via latent space estimation**
 <br>Wang S., Wang Y., Xu F., **Tian X.**, Fredericks C., Shen L., & Zhao Y.
