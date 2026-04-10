@@ -38,6 +38,11 @@ type: "page"
 
 #### 2024
 
+**Pathway analysis over brain structural network with a survival outcome**
+<br>**Tian X.**, Li F., Shen L., Esserman D., & Zhao Y.
+<br>*Biometrics*, 80(4), ujae132. [DOI](https://doi.org/10.1093/biomtc/ujae132)
+<br>*Distinguished Student Paper Award & John Van Ryzin Award, ENAR, 2023.*
+
 **Bayesian semiparametric inference for clustered recurrent events with zero-inflation and a terminal event**
 <br>**Tian X.**, Ciarleglio M., Cai J., Greene E. J., Esserman D., Li F., & Zhao Y.
 <br>*Journal of the Royal Statistical Society: Series C*, 73(3), 598–620. [DOI](https://doi.org/10.1093/jrsssc/qlae007)
@@ -46,11 +51,6 @@ type: "page"
 **Bayesian mixed effect model inference for genetic association with brain network phenotype**
 <br>**Tian X.**\*, Wang Y.\*, Wang S., Zhao Y., & Zhao Y.
 <br>*Biostatistics*, 25(4), 1195–1209. [DOI](https://doi.org/10.1093/biostatistics/kxae008)
-
-**Pathway analysis over brain structural network with a survival outcome**
-<br>**Tian X.**, Li F., Shen L., Esserman D., & Zhao Y.
-<br>*Biometrics*, 80(4), ujae132. [DOI](https://doi.org/10.1093/biomtc/ujae132)
-<br>*Distinguished Student Paper Award & John Van Ryzin Award, ENAR, 2023.*
 
 **Sex-specific topological structure associated with dementia via latent space estimation**
 <br>Wang S., Wang Y., Xu F., **Tian X.**, Fredericks C., Shen L., & Zhao Y.
