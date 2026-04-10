@@ -37,8 +37,3 @@ type: "page"
   <span class="honor-name"><strong>Dean's Honor List</strong>, UCLA</span>
   <span class="honor-year">2016--2020</span>
 </div>
-
-<div class="honor-item">
-  <span class="honor-name"><strong>President's Award for Educational Excellence</strong></span>
-  <span class="honor-year">2016</span>
-</div>
