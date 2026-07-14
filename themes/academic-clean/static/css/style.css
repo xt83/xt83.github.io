@@ -275,6 +275,59 @@ a:hover {
   font-size: 0.94rem;
 }
 
+.education-list {
+  list-style: none;
+  display: grid;
+  gap: 12px;
+  margin-top: 4px;
+  padding-left: 0;
+}
+
+.education-list li {
+  display: grid;
+  grid-template-columns: 74px 1fr;
+  gap: 16px;
+  align-items: start;
+  padding: 14px 16px;
+  border-left: 3px solid #1a5276;
+  border-radius: 0 6px 6px 0;
+  background: #f6f8fa;
+}
+
+.education-period {
+  padding-top: 2px;
+  color: #1a5276;
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-transform: uppercase;
+}
+
+.education-details span,
+.education-school {
+  display: block;
+}
+
+.education-school {
+  color: #1b2a4a;
+  font-family: 'Roboto Slab', serif;
+  font-size: 1rem;
+  line-height: 1.4;
+}
+
+.education-degree {
+  margin-top: 2px;
+  font-size: 0.94rem;
+  font-weight: 600;
+}
+
+.education-meta {
+  margin-top: 3px;
+  color: #666;
+  font-size: 0.84rem;
+  line-height: 1.5;
+}
+
 /* ===== Page Layout ===== */
 .page-wrapper {
   padding: 48px 0 60px;
@@ -480,6 +533,11 @@ a:hover {
   .news-list li {
     grid-template-columns: 1fr;
     gap: 3px;
+  }
+
+  .education-list li {
+    grid-template-columns: 1fr;
+    gap: 4px;
   }
 
   .page-title {
