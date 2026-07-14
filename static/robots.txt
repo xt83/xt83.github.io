@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xt83.github.io/sitemap.xml
