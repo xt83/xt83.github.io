@@ -3,11 +3,11 @@ title: "Presentations"
 type: "page"
 ---
 
-**Bidirectional graph autoencoder with shared latent graph for structural–functional connectivity backbone inference**
-Statistical Methods in Imaging (SMI), Ann Arbor, MI, 2026.
-
 **A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition**
 Joint Statistical Meetings (JSM), Boston, MA, 2026.
+
+**Bidirectional graph autoencoder with shared latent graph for structural–functional connectivity backbone inference**
+Statistical Methods in Imaging (SMI), Ann Arbor, MI, 2026.
 
 **A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition**
 International Chinese Statistics Association (ICSA), Storrs, CT, 2025.
