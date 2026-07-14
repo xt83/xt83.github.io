@@ -30,3 +30,32 @@ My research focuses on developing novel statistical and machine learning methods
     <span>Our paper, <a href="https://doi.org/10.1038/s41592-025-02896-9" target="_blank" rel="noopener noreferrer"><em>Latent space-based network analysis for brain–behavior linking in neuroimaging</em></a>, was published online in <em>Nature Methods</em>. The work introduces LatentSNA, a generative Bayesian approach for linking brain network topology with behavior and improving imaging biomarker discovery.</span>
   </li>
 </ul>
+
+## Education
+
+<ul class="education-list">
+  <li>
+    <span class="education-period">Current</span>
+    <div class="education-details">
+      <strong class="education-school">Yale University</strong>
+      <span class="education-degree">Ph.D. Candidate in Biostatistics</span>
+      <span class="education-meta">Yale School of Public Health · Advisors: <a href="https://ysph.yale.edu/profile/yize-zhao/">Yize Zhao</a> and <a href="https://ysph.yale.edu/profile/denise-esserman/">Denise Esserman</a></span>
+    </div>
+  </li>
+  <li>
+    <span class="education-period">2022</span>
+    <div class="education-details">
+      <strong class="education-school">Yale University</strong>
+      <span class="education-degree">M.Sc. in Biostatistics</span>
+      <span class="education-meta">Yale School of Public Health</span>
+    </div>
+  </li>
+  <li>
+    <span class="education-period">2020</span>
+    <div class="education-details">
+      <strong class="education-school">University of California, Los Angeles</strong>
+      <span class="education-degree">B.Sc. in Applied Mathematics and B.Sc. in Statistics</span>
+      <span class="education-meta">Dual bachelor’s degrees</span>
+    </div>
+  </li>
+</ul>
