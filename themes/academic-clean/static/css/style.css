@@ -218,9 +218,14 @@ a:hover {
   font-family: 'Roboto Slab', serif;
   font-size: 1.6rem;
   color: #1b2a4a;
+  margin-top: 36px;
   margin-bottom: 16px;
   padding-bottom: 8px;
   border-bottom: 2px solid #e8e8e8;
+}
+
+.home-content h2:first-child {
+  margin-top: 0;
 }
 
 .home-content p {
