@@ -11,8 +11,7 @@ type: "page"
 
 **Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference**
 <br>Ding S., Gao H., Liu P., **Tian X.**, & Zhao Y.
-<br>*International Conference on Machine Learning (ICML)*, 2026. [OpenReview](https://openreview.net/forum?id=vNfbqRzash)
-<br><u>Oral Presentation.</u>
+<br>*International Conference on Machine Learning (ICML)*, 2026. Oral Presentation. [OpenReview](https://openreview.net/forum?id=vNfbqRzash)
 
 **A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition**
 <br>**Tian X.**, Guo Y., Ding S., Zhang Y., Esserman D., & Zhao Y.
