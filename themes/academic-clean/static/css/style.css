@@ -277,30 +277,27 @@ a:hover {
 
 .education-list {
   list-style: none;
-  display: grid;
-  gap: 12px;
-  margin-top: 4px;
+  margin-top: 0;
   padding-left: 0;
 }
 
 .education-list li {
   display: grid;
   grid-template-columns: 74px 1fr;
-  gap: 16px;
-  align-items: start;
-  padding: 14px 16px;
-  border-left: 3px solid #1a5276;
-  border-radius: 0 6px 6px 0;
-  background: #f6f8fa;
+  gap: 18px;
+  padding: 14px 0;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.education-list li:first-child {
+  padding-top: 2px;
 }
 
 .education-period {
   padding-top: 2px;
-  color: #1a5276;
-  font-size: 0.82rem;
-  font-weight: 700;
-  letter-spacing: 0.03em;
-  text-transform: uppercase;
+  color: #777;
+  font-size: 0.85rem;
+  font-weight: 600;
 }
 
 .education-details span,
@@ -317,7 +314,7 @@ a:hover {
 
 .education-degree {
   margin-top: 2px;
-  font-size: 0.94rem;
+  font-size: 0.92rem;
   font-weight: 600;
 }
 
@@ -537,7 +534,7 @@ a:hover {
 
   .education-list li {
     grid-template-columns: 1fr;
-    gap: 4px;
+    gap: 2px;
   }
 
   .page-title {
