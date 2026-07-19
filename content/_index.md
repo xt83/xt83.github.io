@@ -15,11 +15,15 @@ My research focuses on developing novel statistical and machine learning methods
 <ul class="news-list">
   <li>
     <strong class="news-date">August 2026</strong>
-    <span>Invited to present <em>A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</em> at the <a href="/talks/">Joint Statistical Meetings (JSM) 2026</a> in Boston, highlighting new approaches for connecting dynamic brain networks with cognitive outcomes.</span>
+    <span>Presenting <em>A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</em> at the <a href="/talks/">Joint Statistical Meetings (JSM) 2026</a> in Boston, highlighting new approaches for connecting dynamic brain networks with cognitive outcomes.</span>
   </li>
   <li>
     <strong class="news-date">June 2026</strong>
-    <span>Gave an invited talk on <em>Bidirectional graph autoencoder with shared latent graph for structural–functional connectivity backbone inference</em> at <a href="/talks/">Statistical Methods in Imaging (SMI) 2026</a> in Ann Arbor, presenting a shared latent graph approach to structural–functional connectivity.</span>
+    <span>Presented <em>Bidirectional graph autoencoder with shared latent graph for structural–functional connectivity backbone inference</em> at <a href="/talks/">Statistical Methods in Imaging (SMI) 2026</a> in Ann Arbor, introducing a shared latent graph approach to structural–functional connectivity.</span>
+  </li>
+  <li>
+    <strong class="news-date">May 2026</strong>
+    <span>Our paper, <a href="https://openreview.net/forum?id=vNfbqRzash" target="_blank" rel="noopener noreferrer"><em>Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference</em></a>, was accepted as a spotlight at the International Conference on Machine Learning (ICML 2026).</span>
   </li>
   <li>
     <strong class="news-date">January 2026</strong>
@@ -28,6 +32,18 @@ My research focuses on developing novel statistical and machine learning methods
   <li>
     <strong class="news-date">December 2025</strong>
     <span>Our paper, <a href="https://doi.org/10.1038/s41592-025-02896-9" target="_blank" rel="noopener noreferrer"><em>Latent space-based network analysis for brain–behavior linking in neuroimaging</em></a>, was published online in <em>Nature Methods</em>. The work introduces LatentSNA, a generative Bayesian approach for linking brain network topology with behavior and improving imaging biomarker discovery.</span>
+  </li>
+  <li>
+    <strong class="news-date">June 2025</strong>
+    <span>Presented <em>A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</em> at the <a href="/talks/">International Chinese Statistical Association (ICSA) Applied Statistics Symposium</a> in Storrs, Connecticut.</span>
+  </li>
+  <li>
+    <strong class="news-date">April 2025</strong>
+    <span>Our paper, <a href="https://doi.org/10.1002/sim.70069" target="_blank" rel="noopener noreferrer"><em>Bayesian longitudinal network regression with application to brain connectome genetics</em></a>, was published in <em>Statistics in Medicine</em>, 44(8–9), e70069.</span>
+  </li>
+  <li>
+    <strong class="news-date">October 2024</strong>
+    <span>Our paper, <a href="https://doi.org/10.1093/biomtc/ujae132" target="_blank" rel="noopener noreferrer"><em>Bayesian pathway analysis over brain network mediators for survival data</em></a>, was published in <em>Biometrics</em>, 80(4).</span>
   </li>
 </ul>
 
