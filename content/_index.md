@@ -35,7 +35,7 @@ My research focuses on developing novel statistical and machine learning methods
   </li>
   <li>
     <strong class="news-date">June 2025</strong>
-    <span>Our paper, <a href="https://doi.org/10.1162/imag.a.56" target="_blank" rel="noopener noreferrer"><em>Supervised brain node and network construction under voxel-level functional imaging</em></a>, was published in <em>Imaging Neuroscience</em>, 3, IMAG.a.56. Motivated by the limitations of fixed brain atlases, the method learns outcome-informed brain nodes that strengthen brain–behavior prediction.</span>
+    <span>Our paper, <a href="https://doi.org/10.1162/imag.a.56" target="_blank" rel="noopener noreferrer"><em>Supervised brain node and network construction under voxel-level functional imaging</em></a>, was published in <em>Imaging Neuroscience</em>. Motivated by the limitations of fixed brain atlases, the method learns outcome-informed brain nodes that strengthen brain–behavior prediction.</span>
   </li>
   <li>
     <strong class="news-date">June 2025</strong>
@@ -43,15 +43,15 @@ My research focuses on developing novel statistical and machine learning methods
   </li>
   <li>
     <strong class="news-date">April 2025</strong>
-    <span>Our paper, <a href="https://doi.org/10.1002/sim.70069" target="_blank" rel="noopener noreferrer"><em>Bayesian longitudinal network regression with application to brain connectome genetics</em></a>, was published in <em>Statistics in Medicine</em>, 44(8–9), e70069. Motivated by the need to understand how genetic variation shapes evolving brain networks, the framework jointly models longitudinal connectomes and genetic effects.</span>
+    <span>Our paper, <a href="https://doi.org/10.1002/sim.70069" target="_blank" rel="noopener noreferrer"><em>Bayesian longitudinal network regression with application to brain connectome genetics</em></a>, was published in <em>Statistics in Medicine</em>. Motivated by the need to understand how genetic variation shapes evolving brain networks, the framework jointly models longitudinal connectomes and genetic effects.</span>
   </li>
   <li>
     <strong class="news-date">October 2024</strong>
-    <span>Our paper, <a href="https://doi.org/10.1093/biomtc/ujae132" target="_blank" rel="noopener noreferrer"><em>Bayesian pathway analysis over brain network mediators for survival data</em></a>, was published in <em>Biometrics</em>, 80(4). Motivated by the information lost when networks are reduced to isolated edges, the method models whole-brain mediation pathways linking exposures to disease onset.</span>
+    <span>Our paper, <a href="https://doi.org/10.1093/biomtc/ujae132" target="_blank" rel="noopener noreferrer"><em>Bayesian pathway analysis over brain network mediators for survival data</em></a>, was published in <em>Biometrics</em>. Motivated by the information lost when networks are reduced to isolated edges, the method models whole-brain mediation pathways linking exposures to disease onset.</span>
   </li>
   <li>
     <strong class="news-date">February 2024</strong>
-    <span>Our paper, <a href="https://doi.org/10.1093/jrsssc/qlae003" target="_blank" rel="noopener noreferrer"><em>Bayesian semi-parametric inference for clustered recurrent events with zero inflation and a terminal event</em></a>, was published in the <em>Journal of the Royal Statistical Society: Series C</em>, 73(3), 598–620. Motivated by clinical studies complicated by clustering, excess zeros, and terminal events, the model delivers flexible and robust Bayesian inference for recurrent outcomes.</span>
+    <span>Our paper, <a href="https://doi.org/10.1093/jrsssc/qlae003" target="_blank" rel="noopener noreferrer"><em>Bayesian semi-parametric inference for clustered recurrent events with zero inflation and a terminal event</em></a>, was published in the <em>Journal of the Royal Statistical Society: Series C</em>. Motivated by clinical studies complicated by clustering, excess zeros, and terminal events, the model delivers flexible and robust Bayesian inference for recurrent outcomes.</span>
   </li>
 </ul>
 

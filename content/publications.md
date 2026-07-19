@@ -9,6 +9,11 @@ type: "page"
 
 #### 2026
 
+**Disentangling Latent Risk Pathways via Bayesian Hypergraph Inference**
+<br>Ding S., Gao H., Liu P., **Tian X.**, & Zhao Y.
+<br>*International Conference on Machine Learning (ICML)*, 2026. [OpenReview](https://openreview.net/forum?id=vNfbqRzash)
+<br><u>Oral Presentation.</u>
+
 **A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition**
 <br>**Tian X.**, Guo Y., Ding S., Zhang Y., Esserman D., & Zhao Y.
 <br>In revision, *Biometrics*.
@@ -28,7 +33,7 @@ type: "page"
 
 **Supervised brain node and network construction under voxel-level functional imaging**
 <br>Xu W., Wang S., Gao S., **Tian X.**, Tan C., Shen X., Luo W., Constable T., Li T., & Zhao Y.
-<br>*Imaging Neuroscience*, 3, IMAG.a.56. [DOI](https://doi.org/10.1162/imag_a_00056)
+<br>*Imaging Neuroscience*, 3, IMAG.a.56. [DOI](https://doi.org/10.1162/imag.a.56)
 
 **Neuroimaging connectivity analysis needs network science for brain–behavior linking**
 <br>Wang S., Zhang X., Liu Y., Xu W., **Tian X.**, & Zhao Y.
@@ -45,7 +50,7 @@ type: "page"
 
 **Bayesian semiparametric inference for clustered recurrent events with zero-inflation and a terminal event**
 <br>**Tian X.**, Ciarleglio M., Cai J., Greene E. J., Esserman D., Li F., & Zhao Y.
-<br>*Journal of the Royal Statistical Society: Series C*, 73(3), 598–620. [DOI](https://doi.org/10.1093/jrsssc/qlae007)
+<br>*Journal of the Royal Statistical Society: Series C*, 73(3), 598–620. [DOI](https://doi.org/10.1093/jrsssc/qlae003)
 <br><u>JSM Student Paper Award, Section on Bayesian Statistical Science, ASA, 2023.</u>
 
 **Bayesian mixed effect model inference for genetic association with brain network phenotype**
