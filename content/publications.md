@@ -17,11 +17,11 @@ type: "page"
 
 **Latent space-based network analysis for brain–behavior linking in neuroimaging**
 <br>Wang S., Zhang X., Liu Y., Xu W., **Tian X.**, & Zhao Y.
-<br>*Nature Methods*, 23(1), 225–235. [[paper](https://doi.org/10.1038/s41592-025-02896-9)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/13002467/bin/41592_2025_2896_MOESM1_ESM.pdf)]
+<br>*Nature Methods*, 23(1), 225–235. [[paper](https://doi.org/10.1038/s41592-025-02896-9)] [[code](https://github.com/Zhao-team/latentSNA)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/13002467/bin/41592_2025_2896_MOESM1_ESM.pdf)]
 
 **Disentangling latent risk pathways via Bayesian hypergraph inference**
 <br>Ding S., Gao H., Liu P., **Tian X.**, & Zhao Y.
-<br>*International Conference on Machine Learning (ICML)*, 2026. Oral presentation. [[paper](https://openreview.net/forum?id=vNfbqRzash)]
+<br>*International Conference on Machine Learning (ICML)*, 2026. Oral presentation. [[paper](https://openreview.net/forum?id=vNfbqRzash)] [[code](https://github.com/Zhao-team/BHPI)]
 
 **Intervention on modifiable lifestyle and physiological factors via variational autoencoder reveals changes in functional connectivity–mediated risk for Alzheimer's disease**
 <br>Orlichenko A., Ding S., Johns E., Gu Z., **Tian X.**, Li X., & Zhao Y.
@@ -61,7 +61,7 @@ type: "page"
 
 **Supervised brain node and network construction under voxel-level functional imaging**
 <br>Xu W., Wang S., Gao S., **Tian X.**, Tan C., Shen X., Luo W., Constable T., Li T., & Zhao Y.
-<br>*Imaging Neuroscience*, 3, IMAG.a.56. [[paper](https://doi.org/10.1162/imag.a.56)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/12319940/bin/imag.a.56_supp.pdf)]
+<br>*Imaging Neuroscience*, 3, IMAG.a.56. [[paper](https://doi.org/10.1162/imag.a.56)] [[code](https://github.com/Zhao-team/SBP)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/12319940/bin/imag.a.56_supp.pdf)]
 
 * * *
 
