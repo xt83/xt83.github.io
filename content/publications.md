@@ -3,9 +3,24 @@ title: "Publications"
 type: "page"
 ---
 
-Papers are listed by year below. See papers by research area [here](/publications-by-area/).
+#### Research Interests
 
-**Research areas:** [Interpretable AI for Scientific Discovery](/publications-by-area/#interpretable-ai-for-scientific-discovery) · [Bayesian Methods and Inference](/publications-by-area/#bayesian-methods-and-inference) · [Neuroimaging and Biomedical Applications](/publications-by-area/#neuroimaging-and-biomedical-applications)
+**Methodology**
+
+- Bayesian method and inference
+- Deep learning
+- Representation learning
+- Causal inference, mediation analysis
+- Network analysis
+- Survival analysis
+
+**Application**
+
+- Neuroimaging, connectome-behavior linking
+- Imaging genetics, imaging-genetics linking
+- Electronic health record (EHR)
+
+* * *
 
 († denotes equal contribution)
 
