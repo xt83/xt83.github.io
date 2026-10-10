@@ -428,6 +428,14 @@ a:hover {
   white-space: nowrap;
 }
 
+.honor-note {
+  display: block;
+  margin-top: 2px;
+  font-size: 0.9em;
+  font-style: italic;
+  color: #777;
+}
+
 /* ===== Research Projects ===== */
 .research-project {
   display: grid;
