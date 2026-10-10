@@ -3,8 +3,6 @@ title: "Publications"
 type: "page"
 ---
 
-#### Research Interests
-
 **Methodology**
 
 - Bayesian method and inference
