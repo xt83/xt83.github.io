@@ -12,8 +12,8 @@ type: "page"
 **A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition**
 <br>**Tian X.**, Guo Y., Ding S., Zhang Y., Esserman D., & Zhao Y.
 <br>*Biometrics*, 82(4), ujag174. [[paper](https://doi.org/10.1093/biomtc/ujag174)] [[code](https://github.com/xt83/bayesian-dynamic-functional-connectivity)]
-<br>**ASA Student Paper Award, Statistics in Imaging Section, 2026.**
-<br>**ASA Student Paper Award, Mental Health Statistics Section (declined), 2026.**
+<br><u>ASA Student Paper Award, Statistics in Imaging Section, 2026.</u>
+<br><u>ASA Student Paper Award, Mental Health Statistics Section (declined), 2026.</u>
 
 **Latent space-based network analysis for brain–behavior linking in neuroimaging**
 <br>Wang S., Zhang X., Liu Y., Xu W., **Tian X.**, & Zhao Y.
@@ -70,13 +70,13 @@ type: "page"
 **Bayesian pathway analysis over brain network mediators for survival data**
 <br>**Tian X.**, Li F., Shen L., Esserman D., & Zhao Y.
 <br>*Biometrics*, 80(4), ujae132. [[paper](https://doi.org/10.1093/biomtc/ujae132)] [[code](https://github.com/xt83/bayesian-pathway-brain-mediators)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/11555425/bin/ujae132_supplemental_files.zip)]
-<br>**John Van Ryzin Award, ENAR, 2023.**
-<br>**Distinguished Student Paper Award, ENAR, 2023.**
+<br><u>John Van Ryzin Award, ENAR, 2023.</u>
+<br><u>Distinguished Student Paper Award, ENAR, 2023.</u>
 
 **Bayesian semi-parametric inference for clustered recurrent events with zero inflation and a terminal event**
 <br>**Tian X.**, Ciarleglio M., Cai J., Greene E. J., Esserman D., Li F., & Zhao Y.
 <br>*Journal of the Royal Statistical Society: Series C*, 73(3), 598–620. [[paper](https://doi.org/10.1093/jrsssc/qlae003)] [[code](https://github.com/xt83/Bayesian_semi_parametric_inference_for_clustered_recurrent_event)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/11271983/bin/qlae003_supplementary_data.pdf)]
-<br>**ASA Student Paper Award, Section on Bayesian Statistical Science, 2023.**
+<br><u>ASA Student Paper Award, Section on Bayesian Statistical Science, 2023.</u>
 
 **Bayesian mixed model inference for genetic association under related samples with brain network phenotype**
 <br>**Tian X.**\*, Wang Y.\*, Wang S., Zhao Y., & Zhao Y.
