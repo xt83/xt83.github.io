@@ -3,20 +3,14 @@ title: "Publications"
 type: "page"
 ---
 
-**Methodology**
+I develop statistical and machine learning methods with real-world applications in the areas of:
 
 - Bayesian method and inference
 - Deep learning
-- Representation learning
 - Causal inference, mediation analysis
 - Network analysis
 - Survival analysis
-
-**Application**
-
-- Neuroimaging, connectome-behavior linking
-- Imaging genetics, imaging-genetics linking
-- Electronic health record (EHR)
+- Neuroimaging, imaging genetics, and electronic health records (EHR)
 
 * * *
 
