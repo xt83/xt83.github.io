@@ -3,7 +3,11 @@ title: "Publications"
 type: "page"
 ---
 
-(\* denotes equal contribution)
+Papers are listed by year below. See papers by research area [here](/publications-by-area/).
+
+**Research areas:** [Interpretable AI for Scientific Discovery](/publications-by-area/#interpretable-ai-for-scientific-discovery) · [Bayesian Methods and Inference](/publications-by-area/#bayesian-methods-and-inference) · [Neuroimaging and Biomedical Applications](/publications-by-area/#neuroimaging-and-biomedical-applications)
+
+(† denotes equal contribution)
 
 * * *
 
@@ -56,7 +60,7 @@ type: "page"
 #### 2025
 
 **Bayesian longitudinal network regression with application to brain connectome genetics**
-<br>Li C.\*, **Tian X.**\*, Gao S., Wang S., Wang G., Zhao Y., & Zhao Y.
+<br>Li C.†, **Tian X.**†, Gao S., Wang S., Wang G., Zhao Y., & Zhao Y.
 <br>*Statistics in Medicine*, 44(8–9), e70069. [[paper](https://doi.org/10.1002/sim.70069)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/12977017/bin/NIHMS2146470-supplement-supplementary.pdf)]
 
 **Supervised brain node and network construction under voxel-level functional imaging**
@@ -79,7 +83,7 @@ type: "page"
 <br><u>ASA Student Paper Award, Section on Bayesian Statistical Science, 2023.</u>
 
 **Bayesian mixed model inference for genetic association under related samples with brain network phenotype**
-<br>**Tian X.**\*, Wang Y.\*, Wang S., Zhao Y., & Zhao Y.
+<br>**Tian X.**†, Wang Y.†, Wang S., Zhao Y., & Zhao Y.
 <br>*Biostatistics*, 25(4), 1195–1209. [[paper](https://doi.org/10.1093/biostatistics/kxae008)] [[code](https://github.com/xt83/Bayesian_mixed_model_inference_for_genetic_association_under_related_samples)] [[supp](https://pmc.ncbi.nlm.nih.gov/articles/instance/11639157/bin/kxae008_supplementary_data.pdf)]
 
 **Sex-specific topological structure associated with dementia via latent space estimation**

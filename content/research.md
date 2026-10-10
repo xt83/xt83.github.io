@@ -37,7 +37,7 @@ Xinyuan's research focuses on developing principled statistical and machine lear
 <div class="research-text">
 <h3>Bayesian Longitudinal Network Regression for Connectome Genetics</h3>
 <p>This project develops Bayesian frameworks for modeling the relationship between genetic factors and brain connectivity networks measured longitudinally. The proposed mixed-effect model enables principled inference on how genetic variants shape the brain's functional organization over time, identifying SNP-associated sub-network structures through network-level regression with biologically meaningful decompositions applied to large-scale imaging genetics data.</p>
-<p class="research-ref">Li C.*, <strong>Tian X.</strong>*, Gao S., Wang S., Wang G., Zhao Y., & Zhao Y. <em>Statistics in Medicine</em>, 44(8–9), e70069, 2025.</p>
+<p class="research-ref">Li C.†, <strong>Tian X.</strong>†, Gao S., Wang S., Wang G., Zhao Y., & Zhao Y. <em>Statistics in Medicine</em>, 44(8–9), e70069, 2025.</p>
 </div>
 <div class="research-img">
 <img src="/img/research/longitudinal.png" alt="Longitudinal network regression for brain connectome genetics">
