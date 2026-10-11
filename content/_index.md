@@ -10,7 +10,7 @@ Prior to this, I received my M.Sc. in Biostatistics from Yale University in 2022
 
 My research develops interpretable artificial intelligence and Bayesian methods for complex biomedical data, with applications in neuroimaging, imaging genetics, and electronic health records. My work combines the flexibility of modern AI models with the inferential discipline of statistical modeling, so that complex data can yield findings that are both interpretable and reliable. My methodological interests include Bayesian inference, deep learning, causal inference and mediation analysis, network analysis, and survival analysis. Please visit the [Research](/research/) page for more details.
 
-I expect to complete my Ph.D. in May 2027 and am on the <strong class="job-market">2026–2027 academic job market</strong>, seeking tenure-track assistant professor positions in statistics or biostatistics beginning Fall 2027.
+<p class="job-market">I expect to complete my Ph.D. in May 2027 and am on the <strong>2026–2027 academic job market</strong>, seeking tenure-track assistant professor positions in statistics or biostatistics beginning Fall 2027.</p>
 
 ## News
 
