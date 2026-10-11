@@ -19,7 +19,7 @@ My research focuses on developing novel statistical and machine learning methods
   </li>
   <li>
     <strong class="news-date">September 2026</strong>
-    <span>Two papers were accepted at the Conference on Neural Information Processing Systems (NeurIPS 2026): <a href="/publications/"><em>Orthogonal sparse subgraph alignment for structure–function coupling in brain networks</em></a> and <a href="/publications/"><em>ELPAC: Endpoint-anchored latent progression with stage-varying multimodal coordination</em></a>.</span>
+    <span>Two of our papers were accepted at the Conference on Neural Information Processing Systems (NeurIPS 2026): <a href="/publications/"><em>Orthogonal sparse subgraph alignment for structure–function coupling in brain networks</em></a> and <a href="/publications/"><em>ELPAC: Endpoint-anchored latent progression with stage-varying multimodal coordination</em></a>.</span>
   </li>
   <li>
     <strong class="news-date">August 2026</strong>
