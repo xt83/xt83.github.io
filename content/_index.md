@@ -14,6 +14,14 @@ My research focuses on developing novel statistical and machine learning methods
 
 <ul class="news-list">
   <li>
+    <strong class="news-date">October 2026</strong>
+    <span>Our paper, <a href="https://doi.org/10.1093/biomtc/ujag174" target="_blank" rel="noopener noreferrer"><em>A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</em></a>, was published in <em>Biometrics</em>. Motivated by the question of whether moment-to-moment changes in brain connectivity carry information about cognition, the framework combines deep learning with Bayesian inference to separate these fluctuations from stable network structure and locate the brain systems where they matter.</span>
+  </li>
+  <li>
+    <strong class="news-date">September 2026</strong>
+    <span>Two papers were accepted at the Conference on Neural Information Processing Systems (NeurIPS 2026): <a href="/publications/"><em>Orthogonal sparse subgraph alignment for structure–function coupling in brain networks</em></a> and <a href="/publications/"><em>ELPAC: Endpoint-anchored latent progression with stage-varying multimodal coordination</em></a>.</span>
+  </li>
+  <li>
     <strong class="news-date">August 2026</strong>
     <span>Presenting <em>A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</em> at the <a href="/talks/">Joint Statistical Meetings (JSM) 2026</a> in Boston, highlighting new approaches for connecting dynamic brain networks with cognitive outcomes.</span>
   </li>
