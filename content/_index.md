@@ -8,7 +8,7 @@ Welcome to my website! My name is Xinyuan Tian. I am currently a Ph.D. candidate
 
 Prior to this, I received my M.Sc. in Biostatistics from Yale University in 2022, and my dual B.Sc. degrees in Applied Mathematics and Statistics from the University of California, Los Angeles (UCLA) in 2020.
 
-My research develops interpretable artificial intelligence and Bayesian methods for complex biomedical data, with applications in neuroimaging, imaging genetics, and electronic health records. I build scientific structure and uncertainty quantification directly into how models learn, so that their findings can be interpreted, evaluated, and linked to the scientific questions that motivated them. My methodological interests include Bayesian inference, deep learning, causal inference and mediation analysis, network analysis, and survival analysis. Please visit the [Research](/research/) page for more details.
+My research develops interpretable artificial intelligence and Bayesian methods for complex biomedical data, with applications in neuroimaging, imaging genetics, and electronic health records. My work combines the flexibility of modern AI models with the inferential discipline of statistical modeling, so that complex data can yield findings that are both interpretable and reliable. My methodological interests include Bayesian inference, deep learning, causal inference and mediation analysis, network analysis, and survival analysis. Please visit the [Research](/research/) page for more details.
 
 ## News
 
