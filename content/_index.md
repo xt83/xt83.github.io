@@ -15,7 +15,7 @@ My research focuses on developing novel statistical and machine learning methods
 <ul class="news-list">
   <li>
     <strong class="news-date">October 2026</strong>
-    <span>Our paper, <a href="https://doi.org/10.1093/biomtc/ujag174" target="_blank" rel="noopener noreferrer"><em>A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</em></a>, was published in <em>Biometrics</em>. The framework combines deep learning with Bayesian inference to reveal how moment-to-moment changes in brain connectivity relate to cognition.</span>
+    <span>Our paper, <a href="https://doi.org/10.1093/biomtc/ujag174" target="_blank" rel="noopener noreferrer"><em>A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</em></a>, was published in <em>Biometrics</em>. By revealing how moment-to-moment changes in brain connectivity relate to cognition, the work opens new ways to identify dynamic brain markers of cognitive function and decline.</span>
   </li>
   <li>
     <strong class="news-date">September 2026</strong>
