@@ -62,6 +62,10 @@ I develop statistical and artificial intelligence methods with real-world applic
 <br>**Tian X.**, & Zhao Y.
 <br>Work in progress.
 
+**Workflow closure is not scientific closure in auto-research systems**
+<br>Wang S., **Tian X.**, Liu P., & Zhao Y.
+<br>Work in progress.
+
 * * *
 
 #### 2025
