@@ -29,7 +29,7 @@ a:hover {
 }
 
 .container {
-  max-width: 960px;
+  max-width: 1180px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -45,7 +45,7 @@ a:hover {
 }
 
 .nav-container {
-  max-width: 960px;
+  max-width: 1180px;
   margin: 0 auto;
   padding: 0 24px;
   display: flex;
@@ -135,9 +135,18 @@ a:hover {
 
 .home-grid {
   display: grid;
-  grid-template-columns: 280px 1fr;
-  gap: 48px;
+  grid-template-columns: 260px minmax(0, 1fr);
+  gap: 56px;
   align-items: start;
+}
+
+.home-photo {
+  position: sticky;
+  top: 84px;
+}
+
+.page-main {
+  min-width: 0;
 }
 
 .home-photo {
@@ -439,7 +448,7 @@ a:hover {
 /* ===== Research Projects ===== */
 .research-project {
   display: grid;
-  grid-template-columns: 1fr 360px;
+  grid-template-columns: 1fr 300px;
   gap: 32px;
   align-items: stretch;
   margin: 8px 0;
@@ -533,6 +542,7 @@ a:hover {
 
   .home-photo {
     margin-bottom: 0;
+    position: static;
   }
 
   .headshot {

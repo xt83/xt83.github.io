@@ -1,9 +1,14 @@
 {{ define "main" }}
 <div class="page-wrapper">
   <div class="container">
-    <h1 class="page-title">{{ .Title }}</h1>
-    <div class="page-content">
-      {{ .Content }}
+    <div class="home-grid">
+      {{ partial "sidebar.html" . }}
+      <div class="page-main">
+        <h1 class="page-title">{{ .Title }}</h1>
+        <div class="page-content">
+          {{ .Content }}
+        </div>
+      </div>
     </div>
   </div>
 </div>
