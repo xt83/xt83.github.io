@@ -3,7 +3,7 @@ title: "Publications"
 type: "page"
 ---
 
-I develop statistical and machine learning methods with real-world applications in the areas of:
+I develop statistical and artificial intelligence methods with real-world applications in the areas of:
 
 - Bayesian method and inference
 - Deep learning
