@@ -48,7 +48,7 @@ My research develops interpretable artificial intelligence and Bayesian methods 
   <div class="pub-info">
     <strong class="pub-title">A Bayesian deep learning framework for brain dynamic functional connectivity linked with cognition</strong><br>
     <strong>Tian X.</strong>, Guo Y., Ding S., Zhang Y., Esserman D., &amp; Zhao Y.<br>
-    <em>Biometrics</em>, 82(4), ujag174, 2026. <a href="https://doi.org/10.1093/biomtc/ujag174" target="_blank" rel="noopener noreferrer">[paper]</a> <a href="https://github.com/xt83/bayesian-dynamic-functional-connectivity" target="_blank" rel="noopener noreferrer">[code]</a><br><u>ASA Student Paper Award, Statistics in Imaging Section, 2026.</u>
+    <em>Biometrics</em>, 82(4), ujag174, 2026. <a href="https://doi.org/10.1093/biomtc/ujag174" target="_blank" rel="noopener noreferrer">[paper]</a> <a href="https://github.com/xt83/bayesian-dynamic-functional-connectivity" target="_blank" rel="noopener noreferrer">[code]</a>
   </div>
 </div>
 
@@ -66,7 +66,7 @@ My research develops interpretable artificial intelligence and Bayesian methods 
   <div class="pub-info">
     <strong class="pub-title">Bayesian pathway analysis over brain network mediators for survival data</strong><br>
     <strong>Tian X.</strong>, Li F., Shen L., Esserman D., &amp; Zhao Y.<br>
-    <em>Biometrics</em>, 80(4), ujae132, 2024. <a href="https://doi.org/10.1093/biomtc/ujae132" target="_blank" rel="noopener noreferrer">[paper]</a> <a href="https://github.com/xt83/bayesian-pathway-brain-mediators" target="_blank" rel="noopener noreferrer">[code]</a> <a href="https://pmc.ncbi.nlm.nih.gov/articles/instance/11555425/bin/ujae132_supplemental_files.zip" target="_blank" rel="noopener noreferrer">[supp]</a><br><u>John Van Ryzin Award, ENAR, 2023.</u><br><u>Distinguished Student Paper Award, ENAR, 2023.</u>
+    <em>Biometrics</em>, 80(4), ujae132, 2024. <a href="https://doi.org/10.1093/biomtc/ujae132" target="_blank" rel="noopener noreferrer">[paper]</a> <a href="https://github.com/xt83/bayesian-pathway-brain-mediators" target="_blank" rel="noopener noreferrer">[code]</a> <a href="https://pmc.ncbi.nlm.nih.gov/articles/instance/11555425/bin/ujae132_supplemental_files.zip" target="_blank" rel="noopener noreferrer">[supp]</a>
   </div>
 </div>
 
@@ -75,7 +75,7 @@ My research develops interpretable artificial intelligence and Bayesian methods 
   <div class="pub-info">
     <strong class="pub-title">Bayesian semi-parametric inference for clustered recurrent events with zero inflation and a terminal event</strong><br>
     <strong>Tian X.</strong>, Ciarleglio M., Cai J., Greene E. J., Esserman D., Li F., &amp; Zhao Y.<br>
-    <em>Journal of the Royal Statistical Society: Series C</em>, 73(3), 598–620, 2024. <a href="https://doi.org/10.1093/jrsssc/qlae003" target="_blank" rel="noopener noreferrer">[paper]</a> <a href="https://github.com/xt83/Bayesian_semi_parametric_inference_for_clustered_recurrent_event" target="_blank" rel="noopener noreferrer">[code]</a> <a href="https://pmc.ncbi.nlm.nih.gov/articles/instance/11271983/bin/qlae003_supplementary_data.pdf" target="_blank" rel="noopener noreferrer">[supp]</a><br><u>ASA Student Paper Award, Section on Bayesian Statistical Science, 2023.</u>
+    <em>Journal of the Royal Statistical Society: Series C</em>, 73(3), 598–620, 2024. <a href="https://doi.org/10.1093/jrsssc/qlae003" target="_blank" rel="noopener noreferrer">[paper]</a> <a href="https://github.com/xt83/Bayesian_semi_parametric_inference_for_clustered_recurrent_event" target="_blank" rel="noopener noreferrer">[code]</a> <a href="https://pmc.ncbi.nlm.nih.gov/articles/instance/11271983/bin/qlae003_supplementary_data.pdf" target="_blank" rel="noopener noreferrer">[supp]</a>
   </div>
 </div>
 
