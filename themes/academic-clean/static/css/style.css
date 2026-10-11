@@ -29,7 +29,7 @@ a:hover {
 }
 
 .container {
-  max-width: 1180px;
+  max-width: 1320px;
   margin: 0 auto;
   padding: 0 24px;
 }
@@ -45,7 +45,7 @@ a:hover {
 }
 
 .nav-container {
-  max-width: 1180px;
+  max-width: 1320px;
   margin: 0 auto;
   padding: 0 24px;
   display: flex;
@@ -150,7 +150,7 @@ a:hover {
 }
 
 .home-photo {
-  text-align: center;
+  text-align: left;
 }
 
 .headshot {
@@ -163,7 +163,7 @@ a:hover {
 }
 
 .contact-card {
-  text-align: center;
+  text-align: left;
 }
 
 .contact-card h3 {
@@ -189,10 +189,10 @@ a:hover {
 
 .contact-links {
   list-style: none;
-  margin: 14px auto 0;
+  margin: 14px 0 0;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
   gap: 6px;
 }
 
@@ -205,7 +205,7 @@ a:hover {
   align-items: center;
   gap: 8px;
   min-width: 150px;
-  padding: 5px 10px;
+  padding: 4px 0;
   border-radius: 4px;
   font-size: 0.88rem;
   text-align: left;
@@ -546,8 +546,8 @@ a:hover {
   }
 
   .headshot {
-    width: 180px;
-    height: 180px;
+    width: 150px;
+    height: 150px;
   }
 
   .news-list li {
