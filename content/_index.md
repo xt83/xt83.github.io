@@ -4,7 +4,7 @@ title: "Home"
 
 ## About Me
 
-Welcome to my website! My name is Xinyuan Tian. I am currently a Ph.D. candidate in the [Department of Biostatistics](https://ysph.yale.edu/research/department-research/biostatistics/) at Yale School of Public Health, advised by [Dr. Yize Zhao](https://ysph.yale.edu/profile/yize-zhao/) and [Dr. Denise Esserman](https://ysph.yale.edu/profile/denise-esserman/).
+Welcome to my website! My name is Xinyuan Tian. I am currently a Ph.D. candidate in the [Department of Biostatistics](https://ysph.yale.edu/research/department-research/biostatistics/) at [Yale School of Public Health](https://ysph.yale.edu/), advised by [Dr. Yize Zhao](https://ysph.yale.edu/profile/yize-zhao/) and [Dr. Denise Esserman](https://ysph.yale.edu/profile/denise-esserman/).
 
 Prior to this, I received my M.Sc. in Biostatistics from [Yale University](https://www.yale.edu/) in 2022, and my dual B.Sc. degrees in Applied Mathematics and Statistics from the [University of California, Los Angeles (UCLA)](https://www.ucla.edu/) in 2020.
 
