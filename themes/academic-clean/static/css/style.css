@@ -242,6 +242,12 @@ a:hover {
   text-align: justify;
 }
 
+.home-content p a {
+  font-weight: 700;
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
 .home-content h3 {
   font-family: 'Roboto Slab', serif;
   font-size: 1.15rem;
