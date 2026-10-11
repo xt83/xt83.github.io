@@ -377,6 +377,11 @@ a:hover {
   color: #1b2a4a;
 }
 
+.job-market,
+.page-content strong.job-market {
+  color: #b5651d;
+}
+
 /* ===== Publication award highlight ===== */
 .pub-award {
   color: #b5651d;
