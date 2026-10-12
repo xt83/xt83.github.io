@@ -19,6 +19,11 @@ type: "page"
 </div>
 
 <div class="honor-item">
+  <span class="honor-name"><strong>Top Reviewer</strong>, Neural Information Processing Systems (NeurIPS)</span>
+  <span class="honor-year">2026</span>
+</div>
+
+<div class="honor-item">
   <span class="honor-name"><strong>ASA Student Paper Award</strong>, Section on Bayesian Statistical Science</span>
   <span class="honor-year">2023</span>
 </div>
